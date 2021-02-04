@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1200px) {
+    .header{
+        max-width: 200px;
+    }
+}    
+
+@media only screen and (max-width: 640px) {
+    body {
+        max-width: 20%;
+    }
+}    
+
+@media only screen and (max-width: 640px) {
+    body {
+        max-width: 100%;
+    }
+}    
